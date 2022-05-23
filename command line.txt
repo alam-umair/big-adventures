@@ -1,0 +1,64 @@
+C:\Users\umair\OneDrive\Desktop\Natours project>npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help init` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+package name: (natours-project) natours
+version: (1.0.0)
+description: landing page for natours
+entry point: (index.js)
+test command:
+git repository:
+keywords:
+author: umair
+license: (ISC)
+About to write to C:\Users\umair\OneDrive\Desktop\Natours project\package.json:
+
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "umair",
+  "license": "ISC"
+}
+
+
+Is this OK? (yes)
+npm notice
+npm notice New minor version of npm available! 8.5.5 -> 8.10.0
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v8.10.0
+npm notice Run npm install -g npm@8.10.0 to update!
+npm notice
+
+C:\Users\umair\OneDrive\Desktop\Natours project>npm install node-sass --save-dev
+
+
+added 241 packages, removed 9 packages, and audited 242 packages in 4m
+
+19 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+C:\Users\umair\OneDrive\Desktop\Natours project>npm install jquery --save
+
+added 1 package, and audited 243 packages in 9s
+
+19 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+C:\Users\umair\OneDrive\Desktop\Natours project> npm uninstall jquery --save
+
+C:\Users\umair\OneDrive\Desktop\Natours project> npm install
